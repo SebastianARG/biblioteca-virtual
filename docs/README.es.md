@@ -1,4 +1,9 @@
-# Recomendaciones generales
+# Descripción y recomendaciones
+
+
+
+
+## Puesta a punto
 1. tener docker abierto en segundo plano
 2. Abrir una terminal y escribir el comando: ` docker-compose up -d ` este descargará e iniciará todos los contenedores que necesite para ejecutarse.
 3. Para verificar que esté activo: ` docker ps `.
